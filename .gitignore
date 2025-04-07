@@ -1,0 +1,39 @@
+# Jupyter Notebook 관련 파일
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python 관련 파일
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 환경 변수 파일
+.env
+.venv
+env/
+venv/
+ENV/
+
+# 로그 파일
+*.log
+
+# 임시 파일
+.DS_Store
+Thumbs.db
